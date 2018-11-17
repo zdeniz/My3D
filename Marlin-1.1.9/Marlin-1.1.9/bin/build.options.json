@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.path=c:\\Users\\zdeni\\Desktop\\my3D\\Marlin-1.1.9\\Marlin-1.1.9\\bin,build.warn_data_percentage=75,runtime.tools.avr-gcc.path=C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,runtime.tools.avrdude.path=C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:mega:cpu=atmega2560",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\zdeni\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10803",
+  "sketchLocation": "c:\\Users\\zdeni\\Desktop\\my3D\\Marlin-1.1.9\\Marlin-1.1.9\\Marlin\\Marlin.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr"
+}

@@ -1,0 +1,23 @@
+3D maliyet:
+	direnc.net:
+		Hotend + GT2 kayýþ = 90 TL
+	
+	Aliexpress:
+		motor sürücü + touch sensor = 175 TL
+		karýþýk = 272 TL
+		4 Motor = 180 TL
+
+	robolinkmarket.com
+		karýþýk = 490 TL
+
+	robotizmo.net
+		karýþýk = 450 TL
+
+	n11.com
+		Mil = 65 TL
+
+	otomasyoncu.net
+		profil = 150 TL
++		
+--------------------------------------------------------
+1872 TL
